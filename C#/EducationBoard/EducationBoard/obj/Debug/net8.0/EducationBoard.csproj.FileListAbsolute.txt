@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\bin\Debug\net8.0\EducationBoard.exe
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\bin\Debug\net8.0\EducationBoard.deps.json
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\bin\Debug\net8.0\EducationBoard.runtimeconfig.json
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\bin\Debug\net8.0\EducationBoard.dll
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\bin\Debug\net8.0\EducationBoard.pdb
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.AssemblyInfo.cs
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.sourcelink.json
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.dll
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\refint\EducationBoard.dll
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.pdb
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\EducationBoard.genruntimeconfig.cache
+C:\Users\Student\Desktop\batch 1\C#\EducationBoard\EducationBoard\obj\Debug\net8.0\ref\EducationBoard.dll
